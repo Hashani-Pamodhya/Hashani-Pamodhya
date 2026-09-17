@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi👋 My name is Hashani Pamodhya and I'm an Undergraduate from the University of Vavuniya</h2>
+<h2 data-importer="text" align="left">Hi👋 My name is Hashani Pamodhya and I'm Computer Science Undergraduate from the University of Vavuniya</h2>
 
 ###
 
